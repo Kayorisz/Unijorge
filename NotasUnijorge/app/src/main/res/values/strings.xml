@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora de Média</string>
+    <string name="hint_nota_a1">Digite a nota A1</string>
+    <string name="hint_nota_a2">Digite a nota A2</string>
+    <string name="hint_nota_a3">Digite a nota A3</string>
+    <string name="botao_calcular">Calcular Média</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="action_settings">Configurações</string>
+    <string name="first_fragment_label">Primeiro Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+</resources>
